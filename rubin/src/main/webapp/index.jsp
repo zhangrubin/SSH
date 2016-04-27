@@ -8,5 +8,12 @@
 </head>
 <body>
 	<span>我是调试的</span>
+
+	<form action="TestServlet">
+		<label>USERNAME</label>
+		<input type="text" name="userName" >
+		<br />
+	</form>
+	
 </body>
 </html>
