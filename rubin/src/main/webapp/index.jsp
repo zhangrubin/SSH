@@ -11,7 +11,6 @@
 		<label>USERNAME</label>
 		<input type="text" name="userName" >
 		<br />
-		ads
 	</form>
 </body>
 </html>
