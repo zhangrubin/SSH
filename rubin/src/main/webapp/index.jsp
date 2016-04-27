@@ -7,6 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+	<form action="TestServlet">
+		<label>USERNAME</label>
+		<input type="text" name="userName" >
+		<br />
+		
+	</form>
 </body>
 </html>
